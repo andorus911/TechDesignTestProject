@@ -19,6 +19,10 @@ MonoBehaviour:
     m_Key: button_text_to_main
     m_Metadata:
       m_Items: []
+  - m_Id: 3719467294720
+    m_Key: button_text_to_secondary
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

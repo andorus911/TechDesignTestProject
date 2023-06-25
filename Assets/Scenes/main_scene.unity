@@ -301,6 +301,62 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 223712272}
   m_CullTransparentMesh: 1
+--- !u!1 &225218089 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3687151546280655157, guid: e0c0a6216f44d4c4fb55272a35601267, type: 3}
+  m_PrefabInstance: {fileID: 3687151546958767366}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &225218091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 225218089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56eb0353ae6e5124bb35b17aff880f16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_StringReference:
+    m_TableReference:
+      m_TableCollectionName: GUID:67c9c0e57249e6c418708a449dc9c901
+    m_TableEntryReference:
+      m_KeyId: 3719467294720
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  m_FormatArguments: []
+  m_UpdateString:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 225218092}
+        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
+        m_MethodName: set_text
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &225218092 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3687151546280655155, guid: e0c0a6216f44d4c4fb55272a35601267, type: 3}
+  m_PrefabInstance: {fileID: 3687151546958767366}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 225218089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &459477227
 GameObject:
   m_ObjectHideFlags: 0
@@ -630,6 +686,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 68162465221161024, guid: 5fd1746adde86a54e9b00a01d8bff677, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1c4578c5ac40bde4e9661a528b857d11, type: 2}
     - target: {fileID: 68162465221161027, guid: 5fd1746adde86a54e9b00a01d8bff677, type: 3}
       propertyPath: m_Name
       value: jad_character

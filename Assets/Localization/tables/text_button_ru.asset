@@ -19,6 +19,10 @@ MonoBehaviour:
     m_Items:
     - rid: 7364943977795551260
   m_TableData:
+  - m_Id: 3719467294720
+    m_Localized: "\u0412\u043E \u0412\u0442\u043E\u0440\u0443\u044E"
+    m_Metadata:
+      m_Items: []
   - m_Id: 3201651105792
     m_Localized: "\u0412 \u0413\u043B\u0430\u0432\u043D\u0443\u044E"
     m_Metadata:

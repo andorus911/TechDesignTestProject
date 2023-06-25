@@ -19,6 +19,10 @@ MonoBehaviour:
     m_Items:
     - rid: 7364943977795551259
   m_TableData:
+  - m_Id: 3719467294720
+    m_Localized: To Secondary
+    m_Metadata:
+      m_Items: []
   - m_Id: 3201651105792
     m_Localized: "To Main\t"
     m_Metadata:
