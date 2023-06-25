@@ -630,38 +630,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 68162465221161024, guid: 5fd1746adde86a54e9b00a01d8bff677, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: ab2867c7f495b304a8ef2f91923fdf34, type: 2}
-    - target: {fileID: 68162465221161025, guid: 5fd1746adde86a54e9b00a01d8bff677, type: 3}
-      propertyPath: maskInteraction
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 68162465221161025, guid: 5fd1746adde86a54e9b00a01d8bff677, type: 3}
-      propertyPath: maskMaterials.materialsInsideMask.Array.size
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 68162465221161025, guid: 5fd1746adde86a54e9b00a01d8bff677, type: 3}
-      propertyPath: maskMaterials.materialsOutsideMask.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 68162465221161025, guid: 5fd1746adde86a54e9b00a01d8bff677, type: 3}
-      propertyPath: maskMaterials.materialsMaskDisabled.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 68162465221161025, guid: 5fd1746adde86a54e9b00a01d8bff677, type: 3}
-      propertyPath: maskMaterials.materialsInsideMask.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 7f518740907f3d2488a638048788ba30, type: 2}
-    - target: {fileID: 68162465221161025, guid: 5fd1746adde86a54e9b00a01d8bff677, type: 3}
-      propertyPath: maskMaterials.materialsOutsideMask.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: ab2867c7f495b304a8ef2f91923fdf34, type: 2}
-    - target: {fileID: 68162465221161025, guid: 5fd1746adde86a54e9b00a01d8bff677, type: 3}
-      propertyPath: maskMaterials.materialsMaskDisabled.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 1c4578c5ac40bde4e9661a528b857d11, type: 2}
     - target: {fileID: 68162465221161027, guid: 5fd1746adde86a54e9b00a01d8bff677, type: 3}
       propertyPath: m_Name
       value: jad_character
